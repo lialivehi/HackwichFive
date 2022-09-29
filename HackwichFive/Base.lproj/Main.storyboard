@@ -43,6 +43,7 @@
                     </view>
                     <connections>
                         <outlet property="bottomLabel" destination="aSP-73-C2p" id="Hco-QX-2na"/>
+                        <outlet property="buttonLabel" destination="8cE-dC-EB3" id="aoL-K5-M5S"/>
                         <outlet property="topLabel" destination="rU5-Z8-wXq" id="FVa-sQ-M8S"/>
                     </connections>
                 </viewController>
